@@ -1,6 +1,11 @@
-# Bubble<sup>2</sup>
+<h1 align ="center">Bubble<sup>2</sup></h1>
+<p align="center">
+<img src="https://github.com/Vernon-444/Bubble-2/blob/master/images/Bubble-2_logo.png" alt="Bubble^2 Logo"
+        width="250"
+        height="250" />
+</p>
 
-Sorting algorithm visualizer, with mini game.
+Sorting algorithm visualizer, with mini game (pending).
 
 ### To Do
 * Determine Use of Unity or Pygame
