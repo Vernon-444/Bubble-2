@@ -1,4 +1,4 @@
-# Bubble^2
+# Bubble<sup>2</sup>
 
 Sorting algorithm visualizer, with mini game.
 
