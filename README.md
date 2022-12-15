@@ -16,3 +16,12 @@ Sorting algorithm visualizer, with mini game (pending).
   * Game Rules:
     * Sum must be in min - max sum of any two numbers of the array
     * Not all sums are possible
+
+
+
+## Installed Things
+
+having a terrible time getting started...
+
+* Pygame
+  *
