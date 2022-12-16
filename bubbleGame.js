@@ -23,6 +23,7 @@ let bubbles;
 let score = 0;
 let fallSpeed;
 let cursors;
+let timer;
 
 function preload() {
     this.load.image('background', 'assets/background.jpeg');
@@ -41,4 +42,3 @@ function create() {
     cursors = this.input.keyboard.createCursorKeys();
     click = this.input.click(Phaser.Input.click)
 }
-
