@@ -15,5 +15,7 @@ Simply go to `Vernon-444.github.io`!
 ### Contributers :pencil::
 
 [Doug Davidson](github.com/wdmd2022)
+
 [Courtney Brown](github.com/cbmarie255)
+
 [Brayden Vernon](github.com/Vernon-444)
