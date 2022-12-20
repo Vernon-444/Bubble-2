@@ -16,6 +16,6 @@ If that doesn't work, [Click Here!](https://www.youtube.com/watch?v=8oE5Z2GLhNc)
 
 ### Contributers :pencil::
 
-* [Doug Davidson](github.com/wdmd2022)
+* [Doug Davison](github.com/wdmd2022)
 * [Courtney Brown](github.com/cbmarie255)
 * [Brayden Vernon](github.com/Vernon-444)
