@@ -9,7 +9,9 @@ Bubble Pop 'Em Game :grin:
 
 ## How To Play:
 
-Simply go to `Vernon-444.github.io`!
+Simply go to [Vernon-444.github.io/Bubble-2](Vernon-444.github.io/Bubble-2)
+
+If that doesn't work, [Click Here!](https://www.youtube.com/watch?v=8oE5Z2GLhNc)
 
 
 ### Contributers :pencil::
