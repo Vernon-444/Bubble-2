@@ -5,23 +5,15 @@
         height="250" />
 </p>
 
-Sorting algorithm visualizer, with mini game (pending).
+Bubble Pop 'Em Game :grin:
 
-### To Do
-* Determine Use of Unity or Pygame
-* Implement Sort algorithms
-* Implement Visual Bubbles
-* Implement Animations
-* Implement Game
-  * Game Rules:
-    * Sum must be in min - max sum of any two numbers of the array
-    * Not all sums are possible
+## How To Play:
+
+Simply go to `Vernon-444.github.io`!
 
 
+### Contributers :pencil::
 
-## Installed Things
-
-having a terrible time getting started...
-
-* Pygame
-  *
+[Doug Davidson](github.com/wdmd2022)
+[Courtney Brown](github.com/cbmarie255)
+[Brayden Vernon](github.com/Vernon-444)
